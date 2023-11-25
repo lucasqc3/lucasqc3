@@ -1,4 +1,7 @@
-Olá, meu nome é Lucas, eu sou estudante de Análise e Desenvolvimento. Atualmente faço projetos pessoais como front-end usando as tecnologias abaixo.
+Português
+Olá, meu nome é Lucas, eu sou estudante de Análise e Desenvolvimento. Atualmente faço projetos pessoais como front-end usando as tecnologias abaixo. <br>
+<br>
+English
 Hi, my name is Lucas, i am a Tech studant. I do personal projects as a front-end developer using the above tecnologies.
 
 Português - Fluente
